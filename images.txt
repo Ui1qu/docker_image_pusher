@@ -1,4 +1,7 @@
 nginx
+openresty/openresty
+openresty/openresty
+openresty/openresty:alpine
 bitnami/openresty:1.25
 hello-world
 debian
