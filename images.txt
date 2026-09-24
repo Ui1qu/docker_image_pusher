@@ -25,3 +25,8 @@ registry.k8s.io/etcd:3.5.12-0
 registry.k8s.io/coredns/coredns:v1.10.1
 
 postgres:15
+
+# multica
+ghcr.io/multica-ai/multica-backend
+ghcr.io/multica-ai/multica-web
+pgvector/pgvector:pg17
