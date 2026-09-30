@@ -30,3 +30,5 @@ postgres:15
 ghcr.io/multica-ai/multica-backend
 ghcr.io/multica-ai/multica-web
 pgvector/pgvector:pg17
+
+node:24-bookworm-slim
